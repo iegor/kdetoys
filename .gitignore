@@ -1,0 +1,13 @@
+*.Plo
+*.Po
+*.so
+*.lai
+Makefile.in
+Makefile
+*.lo
+*.la
+*.moc
+.libs
+*.o
+autom4te.cache/*
+configure
